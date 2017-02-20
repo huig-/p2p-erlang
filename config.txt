@@ -1,0 +1,6 @@
+NUsuarios 4
+MaxSeed 3
+MaxDownload 5
+TimeOutWaitingSeeder 2000
+TimeOutWaitingPetition 3000
+ChunkSize 10

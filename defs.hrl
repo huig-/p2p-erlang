@@ -1,0 +1,1 @@
+-record(config, {nusuarios = 0, maxseed = 0, maxdownload = 0, toseed = 0, topetition = 0, chunksize = 0}).
